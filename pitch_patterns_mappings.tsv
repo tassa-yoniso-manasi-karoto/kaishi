@@ -1,1501 +1,1488 @@
-#separator:tab	
-私	heiban
+私[わたし]	heiban
 あなた	nakadaka
 さん	heiban
-彼	atamadaka
-好き	nakadaka
-人	heiban
+彼[かれ]	atamadaka
+好[す]き	nakadaka
+人[ひと]	heiban
 いい	atamadaka
-人	atamadaka
-日本語	heiban
-勉強	heiban
-本	atamadaka
+人[じん]	atamadaka
+日本[にほん] 語[ご]	heiban
+勉[べん] 強[きょう]	heiban
+本[ほん]	atamadaka
 これ	heiban
-何	atamadaka
+何[なに・なん]	atamadaka
 それ	heiban
 あれ	heiban
 どれ	atamadaka
-毎日	atamadaka
-兄	atamadaka
+毎[まい] 日[にち]	atamadaka
+兄[あに]	atamadaka
 いる	heiban
 ある	atamadaka
 あまり	heiban
-今	atamadaka
-時間	heiban
-無い	atamadaka
+今[いま]	atamadaka
+時[じ] 間[かん]	heiban
+無[な]い	atamadaka
 この	heiban
 その	heiban
 あの	heiban
 どの	atamadaka
-見る	atamadaka
-全然	heiban
-面白い	nakadaka
+見[み]る	atamadaka
+全[ぜん] 然[ぜん]	heiban
+面[おも] 白[しろ]い	nakadaka
 する	heiban
 なる	atamadaka
-先生	
-ください	
-名前	
-教える	heiban
+先[せん] 生[せい]	
+ください	nakadaka
+名[な] 前[まえ]	
+教[おし]える	heiban
 ここ	heiban
 そこ	heiban
 あそこ	heiban
 どこ	atamadaka
-置く	heiban
-家	nakadaka
-帰る	atamadaka
-話	nakadaka
-知る	heiban
-彼女	atamadaka
+置[お]く	heiban
+家[いえ]	nakadaka
+帰[かえ]る	atamadaka
+話[はなし]	nakadaka
+知[し]る	heiban
+彼[かの] 女[じょ]	atamadaka
 ちゃん	heiban
 はい	atamadaka
 いいえ	nakadaka
-日本	nakadaka
-学校	heiban
-行く	heiban
-明日	nakadaka
-来る	atamadaka
+日本[にほん]	nakadaka
+学[がっ] 校[こう]	heiban
+行[い]く	heiban
+明日[あした]	nakadaka
+来[く]る	atamadaka
 また	nakadaka
 いつ	atamadaka
-思う	nakadaka
+思[おも]う	nakadaka
 こう	heiban
 そう	heiban
 どう	atamadaka
-会う	atamadaka
-次	nakadaka
-方	atamadaka
-方	nakadaka
-聞く	heiban
-聞く	heiban
-お願いします	nakadaka
-分かる	nakadaka
+会[あ]う	atamadaka
+次[つぎ]	nakadaka
+方[ほう]	atamadaka
+方[かた]	nakadaka
+聞[き]く	heiban
+お 願[ねが]いします	nakadaka
+分[わ]かる	nakadaka
 よく	atamadaka
-よく	atamadaka
-考える	nakadaka
+考[かんが]える	nakadaka
 ありがとうございます	
-話す	nakadaka
+話[はな]す	nakadaka
 もっと	atamadaka
 ゆっくり	nakadaka
-言う	heiban
-友達	heiban
-待つ	atamadaka
-昨日	
-町	nakadaka
-高い	nakadaka
-高い	nakadaka
-一番	
+言[い]う	heiban
+友[とも] 達[だち]	heiban
+待[ま]つ	atamadaka
+昨日[きのう]	
+町[まち]	nakadaka
+高[たか]い	nakadaka
+一[いち] 番[ばん]	
 ちょっと	nakadaka
 もう	
-もう	
-父	nakadaka
-大好き	atamadaka
-母	atamadaka
+父[ちち]	nakadaka
+大[だい] 好[す]き	atamadaka
+母[はは]	atamadaka
 あげる	heiban
 くれる	heiban
 もらう	heiban
-物	nakadaka
-君	heiban
-中	atamadaka
-出来る	nakadaka
-本当	heiban
-立つ	atamadaka
-前	atamadaka
-入る	atamadaka
-家族	atamadaka
-住む	atamadaka
-大きな	atamadaka
-大きい	nakadaka
-声	atamadaka
-目	atamadaka
-手	atamadaka
-上げる	heiban
-嫌い	heiban
+物[もの]	nakadaka
+君[きみ]	heiban
+中[なか]	atamadaka
+出[で] 来[き]る	nakadaka
+本[ほん] 当[とう]	heiban
+立[た]つ	atamadaka
+前[まえ]	atamadaka
+入[はい]る	atamadaka
+家[か] 族[ぞく]	atamadaka
+住[す]む	atamadaka
+大[おお]きな	atamadaka
+大[おお]きい	nakadaka
+声[こえ]	atamadaka
+目[め]	atamadaka
+手[て]	atamadaka
+上[あ]げる	heiban
+嫌[きら]い	heiban
 おじいさん	nakadaka
 おばあさん	nakadaka
-元気	atamadaka
+元[げん] 気[き]	atamadaka
 いつも	atamadaka
-持つ	atamadaka
+持[も]つ	atamadaka
 みんな	nakadaka
-使う	heiban
-大丈夫	nakadaka
-始める	heiban
-今日	atamadaka
-部屋	nakadaka
-悪い	nakadaka
+使[つか]う	heiban
+大[だい] 丈[じょう] 夫[ぶ]	nakadaka
+始[はじ]める	heiban
+今日[きょう]	atamadaka
+部屋[へや]	nakadaka
+悪[わる]い	nakadaka
 まあ	atamadaka
-食べる	nakadaka
-沢山	
-場所	heiban
-呼ぶ	heiban
-動く	nakadaka
-気持ち	heiban
-誰	atamadaka
-子	heiban
+食[た]べる	nakadaka
+沢[たく] 山[さん]	
+場[ば] 所[しょ]	heiban
+呼[よ]ぶ	heiban
+動[うご]く	nakadaka
+気[き] 持[も]ち	heiban
+誰[だれ]	atamadaka
+子[こ]	heiban
 どんな	atamadaka
-意味	atamadaka
-言葉	odaka
-心配	heiban
-様子	heiban
-信じる	nakadaka
-自分	heiban
-調べる	nakadaka
-事	nakadaka
-同じ	heiban
-申し訳ない	nakadaka
+意[い] 味[み]	atamadaka
+言[こと] 葉[ば]	odaka
+心[しん] 配[ぱい]	heiban
+様[よう] 子[す]	heiban
+信[しん]じる	nakadaka
+自[じ] 分[ぶん]	heiban
+調[しら]べる	nakadaka
+事[こと]	nakadaka
+同[おな]じ	heiban
+申[もう]し 訳[わけ]ない	nakadaka
 もちろん	nakadaka
 とても	heiban
-楽しい	nakadaka
-失礼します	
-手伝う	nakadaka
-忙しい	odaka
-仕事	heiban
-続ける	heiban
-見せる	nakadaka
+楽[たの]しい	nakadaka
+失[しつ] 礼[れい]します	
+手[て] 伝[つだ]う	nakadaka
+忙[いそが]しい	odaka
+仕[し] 事[ごと]	heiban
+続[つづ]ける	heiban
+見[み]せる	nakadaka
 うち	heiban
-約束	heiban
-忘れる	heiban
-守る	nakadaka
-変える	heiban
+約[やく] 束[そく]	heiban
+忘[わす]れる	heiban
+守[まも]る	nakadaka
+変[か]える	heiban
 さっき	atamadaka
-今度	atamadaka
+今[こん] 度[ど]	atamadaka
 これから	
-止める	heiban
-止める	heiban
-頼む	nakadaka
-許す	nakadaka
-嬉しい	odaka
-頑張る	odaka
+止[と]める	heiban
+止[や]める	heiban
+頼[たの]む	nakadaka
+許[ゆる]す	nakadaka
+嬉[うれ]しい	odaka
+頑[がん] 張[ば]る	odaka
 なるほど	heiban
 つまり	atamadaka
-国	heiban
-優しい	heiban
-嫌	nakadaka
+国[くに]	heiban
+優[やさ]しい	heiban
+嫌[いや]	nakadaka
 そんなに	heiban
-今回	atamadaka
-夜	atamadaka
-買う	heiban
-今まで	odaka
-奴	atamadaka
+今[こん] 回[かい]	atamadaka
+夜[よる]	atamadaka
+買[か]う	heiban
+今[いま]まで	odaka
+奴[やつ]	atamadaka
 あいつ	heiban
 もし	atamadaka
-理解	atamadaka
-夢	nakadaka
-俺	heiban
-難しい	odaka
-今度	atamadaka
+理[り] 解[かい]	atamadaka
+夢[ゆめ]	nakadaka
+俺[おれ]	heiban
+難[むずか]しい	odaka
 おかしい	odaka
-男の子	odaka
-女の子	odaka
-寝る	heiban
-伝える	heiban
-小さい	odaka
-選ぶ	nakadaka
-座る	heiban
-簡単	heiban
-お願い	heiban
-進む	heiban
-全く	heiban
+男[おとこ]の 子[こ]	odaka
+女[おんな]の 子[こ]	odaka
+寝[ね]る	heiban
+伝[つた]える	heiban
+小[ちい]さい	odaka
+選[えら]ぶ	nakadaka
+座[すわ]る	heiban
+簡[かん] 単[たん]	heiban
+お 願[ねが]い	heiban
+進[すす]む	heiban
+全[まった]く	heiban
 なぜ	atamadaka
-僕	
-水	heiban
-飲む	atamadaka
-暇	heiban
-時	
-時	
-一	nakadaka
-二	atamadaka
-三	heiban
-四	
-五	atamadaka
-六	nakadaka
-七	
-八	nakadaka
-九	atamadaka
-十	atamadaka
+僕[ぼく]	
+水[みず]	heiban
+飲[の]む	atamadaka
+暇[ひま]	heiban
+時[とき]	
+時[じ]	
+一[いち]	nakadaka
+二[に]	atamadaka
+三[さん]	heiban
+四[よん]	
+五[ご]	atamadaka
+六[ろく]	nakadaka
+七[なな]	
+八[はち]	nakadaka
+九[きゅう]	atamadaka
+十[じゅう]	atamadaka
 くん	heiban
 すみません	odaka
 やる	heiban
-顔	heiban
-今朝	atamadaka
-出る	atamadaka
+顔[かお]	heiban
+今朝[けさ]	atamadaka
+出[で]る	atamadaka
 そして	heiban
 まだ	atamadaka
 じゃ	atamadaka
 ため	nakadaka
-ご飯	atamadaka
+ご 飯[はん]	atamadaka
 ところ	
-少し	nakadaka
-見える	nakadaka
-違う	heiban
-男	odaka
+少[すこ]し	nakadaka
+見[み]える	nakadaka
+違[ちが]う	heiban
+男[おとこ]	odaka
 ただ	atamadaka
-ただ	atamadaka
-人間	heiban
-作る	nakadaka
-感じる	heiban
-上	
-強い	nakadaka
-出す	atamadaka
-笑う	heiban
-毎月	heiban
-毎年	heiban
-多く	atamadaka
+人[にん] 間[げん]	heiban
+作[つく]る	nakadaka
+感[かん]じる	heiban
+上[うえ]	
+強[つよ]い	nakadaka
+出[だ]す	atamadaka
+笑[わら]う	heiban
+毎[まい] 月[つき]	heiban
+毎[まい] 年[とし]	heiban
+多[おお]く	atamadaka
 くらい	heiban
-姉	heiban
-弟	odaka
-妹	odaka
-力	odaka
-世界	atamadaka
-相手	odaka
-姿	atamadaka
-死ぬ	heiban
-早い	nakadaka
-早い	nakadaka
-頭	odaka
-戻る	nakadaka
+姉[あね]	heiban
+弟[おとうと]	odaka
+妹[いもうと]	odaka
+力[ちから]	odaka
+世[せ] 界[かい]	atamadaka
+相[あい] 手[て]	odaka
+姿[すがた]	atamadaka
+死[し]ぬ	heiban
+早[はや]い	nakadaka
+頭[あたま]	odaka
+戻[もど]る	nakadaka
 ずっと	heiban
 どうして	atamadaka
 やっぱり	nakadaka
 つもり	heiban
-必要	heiban
-終わる	heiban
-者	odaka
-後	atamadaka
+必[ひつ] 要[よう]	heiban
+終[お]わる	heiban
+者[もの]	odaka
+後[あと]	atamadaka
 こちら	heiban
-向かう	heiban
+向[む]かう	heiban
 きっと	heiban
-変わる	heiban
-凄い	nakadaka
-女	odaka
+変[か]わる	heiban
+凄[すご]い	nakadaka
+女[おんな]	odaka
 ちゃんと	heiban
-音	odaka
-体	heiban
-掛ける	nakadaka
-歩く	nakadaka
-存在	heiban
-過ぎる	nakadaka
-聞こえる	heiban
-受ける	nakadaka
-今年	heiban
-去年	atamadaka
-来年	heiban
-殺す	heiban
+音[おと]	odaka
+体[からだ]	heiban
+掛[か]ける	nakadaka
+歩[ある]く	nakadaka
+存[そん] 在[ざい]	heiban
+過[す]ぎる	nakadaka
+聞[き]こえる	heiban
+受[う]ける	nakadaka
+今年[ことし]	heiban
+去[きょ] 年[ねん]	atamadaka
+来[らい] 年[ねん]	heiban
+殺[ころ]す	heiban
 まさか	atamadaka
-絶対	heiban
-理由	heiban
-口	heiban
-外	atamadaka
-逃げる	nakadaka
-誰か	atamadaka
+絶[ぜっ] 対[たい]	heiban
+理[り] 由[ゆう]	heiban
+口[くち]	heiban
+外[そと]	atamadaka
+逃[に]げる	nakadaka
+誰[だれ]か	atamadaka
 まるで	heiban
-他	heiban
-他	atamadaka
-問題	heiban
-今後	heiban
-普通	heiban
-心	nakadaka
-春	atamadaka
-夏	atamadaka
-秋	atamadaka
-冬	atamadaka
-以上	atamadaka
+他[ほか]	heiban
+他[た]	atamadaka
+問[もん] 題[だい]	heiban
+今[こん] 後[ご]	heiban
+普[ふ] 通[つう]	heiban
+心[こころ]	nakadaka
+春[はる]	atamadaka
+夏[なつ]	atamadaka
+秋[あき]	atamadaka
+冬[ふゆ]	atamadaka
+以[い] 上[じょう]	atamadaka
 それで	heiban
-生きる	nakadaka
-最初	heiban
-最後	atamadaka
-日	
-間	heiban
-間	
+生[い]きる	nakadaka
+最[さい] 初[しょ]	heiban
+最[さい] 後[ご]	atamadaka
+日[ひ]	
+間[あいだ]	heiban
+間[ま]	
 について	nakadaka
-左	heiban
-右	heiban
-感じ	heiban
-胸	nakadaka
-表情	nakadaka
-多い	atamadaka
-初めて	atamadaka
-無理	atamadaka
-欲しい	nakadaka
+左[ひだり]	heiban
+右[みぎ]	heiban
+感[かん]じ	heiban
+胸[むね]	nakadaka
+表[ひょう] 情[じょう]	nakadaka
+多[おお]い	atamadaka
+初[はじ]めて	atamadaka
+無[む] 理[り]	atamadaka
+欲[ほ]しい	nakadaka
 ごめん	nakadaka
-覚える	nakadaka
-別に	heiban
-思い出す	nakadaka
-入れる	heiban
-開く	heiban
-開く	nakadaka
-残る	nakadaka
-答える	nakadaka
-怖い	nakadaka
-年	atamadaka
-年	nakadaka
-取る	atamadaka
-全て	atamadaka
-助ける	nakadaka
-状況	heiban
-確認	heiban
-消える	heiban
-長い	nakadaka
-驚く	nakadaka
-腕	nakadaka
-以外	atamadaka
-困る	nakadaka
-離れる	nakadaka
-気	
-書く	atamadaka
-光	nakadaka
-走る	nakadaka
-戦う	heiban
-余り	
-全部	atamadaka
-瞬間	heiban
-説明	heiban
-決める	heiban
-女性	heiban
-頂く	heiban
-敵	heiban
-起きる	nakadaka
-起きる	nakadaka
-落ちる	nakadaka
-足	odaka
+覚[おぼ]える	nakadaka
+別[べつ]に	heiban
+思[おも]い 出[だ]す	nakadaka
+入[い]れる	heiban
+開[あ]く	heiban
+開[ひら]く	nakadaka
+残[のこ]る	nakadaka
+答[こた]える	nakadaka
+怖[こわ]い	nakadaka
+年[ねん]	atamadaka
+年[とし]	nakadaka
+取[と]る	atamadaka
+全[すべ]て	atamadaka
+助[たす]ける	nakadaka
+状[じょう] 況[きょう]	heiban
+確[かく] 認[にん]	heiban
+消[き]える	heiban
+長[なが]い	nakadaka
+驚[おどろ]く	nakadaka
+腕[うで]	nakadaka
+以[い] 外[がい]	atamadaka
+困[こま]る	nakadaka
+離[はな]れる	nakadaka
+気[き]	
+書[か]く	atamadaka
+光[ひかり]	nakadaka
+走[はし]る	nakadaka
+戦[たたか]う	heiban
+余[あま]り	
+全[ぜん] 部[ぶ]	atamadaka
+瞬[しゅん] 間[かん]	heiban
+説[せつ] 明[めい]	heiban
+決[き]める	heiban
+女[じょ] 性[せい]	heiban
+頂[いただ]く	heiban
+敵[てき]	heiban
+起[お]きる	nakadaka
+落[お]ちる	nakadaka
+足[あし]	odaka
 それに	heiban
-先に	heiban
-魔法	heiban
-探す	heiban
-子供	heiban
-怒る	nakadaka
-笑顔	atamadaka
-先輩	heiban
-続く	heiban
+先[さき]に	heiban
+魔[ま] 法[ほう]	heiban
+探[さが]す	heiban
+子[こ] 供[ども]	heiban
+怒[おこ]る	nakadaka
+笑[え] 顔[がお]	atamadaka
+先[せん] 輩[ぱい]	heiban
+続[つづ]く	heiban
 こんなに	heiban
-変	odaka
-読む	atamadaka
-当然	heiban
-情報	heiban
-見つける	heiban
-少女	atamadaka
-大変	heiban
+変[へん]	odaka
+読[よ]む	atamadaka
+当[とう] 然[ぜん]	heiban
+情[じょう] 報[ほう]	heiban
+見[み]つける	heiban
+少[しょう] 女[じょ]	atamadaka
+大[たい] 変[へん]	heiban
 かなり	atamadaka
-下	odaka
-下	odaka
+下[した]	odaka
+下[もと]	odaka
 かかる	nakadaka
-掛かる	nakadaka
-一度	nakadaka
-完全	heiban
-後ろ	heiban
-泣く	heiban
-状態	heiban
-関係	heiban
-向ける	heiban
-奥	atamadaka
-軽い	heiban
-返す	atamadaka
-現れる	nakadaka
-痛い	nakadaka
+掛[か]かる	nakadaka
+一[いち] 度[ど]	nakadaka
+完[かん] 全[ぜん]	heiban
+後[うし]ろ	heiban
+泣[な]く	heiban
+状[じょう] 態[たい]	heiban
+関[かん] 係[けい]	heiban
+向[む]ける	heiban
+奥[おく]	atamadaka
+軽[かる]い	heiban
+返[かえ]す	atamadaka
+現[あらわ]れる	nakadaka
+痛[いた]い	nakadaka
 どうやら	atamadaka
-点ける	nakadaka
-付ける	nakadaka
-一瞬	heiban
-隠す	nakadaka
-準備	atamadaka
+点[つ]ける	nakadaka
+付[つ]ける	nakadaka
+一[いっ] 瞬[しゅん]	heiban
+隠[かく]す	nakadaka
+準[じゅん] 備[び]	atamadaka
 そろそろ	atamadaka
-落ち着く	heiban
-恥ずかしい	odaka
-場合	heiban
+落[お]ち 着[つ]く	heiban
+恥[は]ずかしい	odaka
+場[ば] 合[あい]	heiban
 しっかり	nakadaka
-しっかり	nakadaka
-髪	odaka
-元	atamadaka
-得る	atamadaka
+髪[かみ]	odaka
+元[もと]	atamadaka
+得[え]る	atamadaka
 すぐ	atamadaka
-来月	atamadaka
-昔	heiban
-近い	nakadaka
-動き	odaka
-見つめる	heiban
-幸せ	heiban
-記憶	heiban
-反応	heiban
-私たち	nakadaka
+来[らい] 月[げつ]	atamadaka
+昔[むかし]	heiban
+近[ちか]い	nakadaka
+動[うご]き	odaka
+見[み]つめる	heiban
+幸[しあわ]せ	heiban
+記[き] 憶[おく]	heiban
+反[はん] 応[のう]	heiban
+私[わたし]たち	nakadaka
 とにかく	atamadaka
-勝手	heiban
-攻撃	heiban
-開ける	heiban
-黙る	atamadaka
-最近	heiban
-全員	heiban
+勝[かっ] 手[て]	heiban
+攻[こう] 撃[げき]	heiban
+開[あ]ける	heiban
+黙[だま]る	atamadaka
+最[さい] 近[きん]	heiban
+全[ぜん] 員[いん]	heiban
 せい	atamadaka
-深い	nakadaka
-別	heiban
-決まる	heiban
+深[ふか]い	nakadaka
+別[べつ]	heiban
+決[き]まる	heiban
 しばらく	nakadaka
-行う	heiban
-上がる	
-隣	heiban
-扉	heiban
-指	nakadaka
-結果	heiban
-与える	heiban
-道	heiban
-乗る	heiban
-特に	atamadaka
-形	heiban
+行[おこな]う	heiban
+上[あ]がる	
+隣[となり]	heiban
+扉[とびら]	heiban
+指[ゆび]	nakadaka
+結[けっ] 果[か]	heiban
+与[あた]える	heiban
+道[みち]	heiban
+乗[の]る	heiban
+特[とく]に	atamadaka
+形[かたち]	heiban
 さあ	atamadaka
-血	heiban
-更に	atamadaka
-用意	atamadaka
-負ける	heiban
-神	atamadaka
-実は	nakadaka
-服	nakadaka
-不思議	heiban
-意識	atamadaka
-一体	heiban
+血[ち]	heiban
+更[さら]に	atamadaka
+用[よう] 意[い]	atamadaka
+負[ま]ける	heiban
+神[かみ]	atamadaka
+実[じつ]は	nakadaka
+服[ふく]	nakadaka
+不[ふ] 思[し] 議[ぎ]	heiban
+意[い] 識[しき]	atamadaka
+一[いっ] 体[たい]	heiban
 とりあえず	
-送る	heiban
+送[おく]る	heiban
 では	atamadaka
-安心	heiban
-失う	heiban
-行動	heiban
-触れる	heiban
+安[あん] 心[しん]	heiban
+失[うしな]う	heiban
+行[こう] 動[どう]	heiban
+触[ふ]れる	heiban
 そもそも	atamadaka
-少ない	nakadaka
-結局	heiban
-空	atamadaka
-済む	atamadaka
-任せる	nakadaka
-赤い	heiban
-大事	heiban
-残す	nakadaka
-止まる	heiban
-朝	atamadaka
-命	atamadaka
-不安	heiban
-結構	atamadaka
-結構	atamadaka
-新しい	odaka
-程度	atamadaka
-壁	heiban
-用	odaka
-背中	heiban
-気付く	nakadaka
+少[すく]ない	nakadaka
+結[けっ] 局[きょく]	heiban
+空[そら]	atamadaka
+済[す]む	atamadaka
+任[まか]せる	nakadaka
+赤[あか]い	heiban
+大[だい] 事[じ]	heiban
+残[のこ]す	nakadaka
+止[と]まる	heiban
+朝[あさ]	atamadaka
+命[いのち]	atamadaka
+不[ふ] 安[あん]	heiban
+結[けっ] 構[こう]	atamadaka
+新[あたら]しい	odaka
+程[てい] 度[ど]	atamadaka
+壁[かべ]	heiban
+用[よう]	odaka
+背[せ] 中[なか]	heiban
+気[き] 付[づ]く	nakadaka
 いきなり	heiban
-渡す	heiban
-喜ぶ	nakadaka
-可愛い	nakadaka
-始まる	heiban
-色	atamadaka
-認める	heiban
-急	heiban
-向こう	nakadaka
-求める	nakadaka
-肩	atamadaka
-仲間	nakadaka
+渡[わた]す	heiban
+喜[よろこ]ぶ	nakadaka
+可愛[かわい]い	nakadaka
+始[はじ]まる	heiban
+色[いろ]	atamadaka
+認[みと]める	heiban
+急[きゅう]	heiban
+向[む]こう	nakadaka
+求[もと]める	nakadaka
+肩[かた]	atamadaka
+仲[なか] 間[ま]	nakadaka
 ようやく	heiban
-思わず	atamadaka
+思[おも]わず	atamadaka
 ほとんど	atamadaka
-突然	heiban
-自身	atamadaka
-再び	heiban
-静か	atamadaka
-飛ぶ	heiban
-白い	atamadaka
-届く	atamadaka
-生む	heiban
-倒す	nakadaka
-似る	heiban
-空気	atamadaka
-腰	heiban
-名	
-危険	heiban
-付く	atamadaka
+突[とつ] 然[ぜん]	heiban
+自[じ] 身[しん]	atamadaka
+再[ふたた]び	heiban
+静[しず]か	atamadaka
+飛[と]ぶ	heiban
+白[しろ]い	atamadaka
+届[とど]く	atamadaka
+生[う]む	heiban
+倒[たお]す	nakadaka
+似[に]る	heiban
+空[くう] 気[き]	atamadaka
+腰[こし]	heiban
+名[な]	
+危[き] 険[けん]	heiban
+付[つ]く	atamadaka
 つく	atamadaka
-熱い	nakadaka
+熱[あつ]い	nakadaka
 ただいま	odaka
-頂きます	odaka
-慌てる	heiban
-周囲	atamadaka
-気分	atamadaka
-事実	atamadaka
+頂[いただ]きます	odaka
+慌[あわ]てる	heiban
+周[しゅう] 囲[い]	atamadaka
+気[き] 分[ぶん]	atamadaka
+事[じ] 実[じつ]	atamadaka
 まず	atamadaka
-本気	heiban
-頷く	heiban
-通り	odaka
-想像	heiban
-店	odaka
-何だか	atamadaka
-目的	heiban
-眠る	heiban
-確か	atamadaka
-十分	nakadaka
-料理	atamadaka
-頃	atamadaka
+本[ほん] 気[き]	heiban
+頷[うなず]く	heiban
+通[とお]り	odaka
+想[そう] 像[ぞう]	heiban
+店[みせ]	odaka
+何[なん]だか	atamadaka
+目[もく] 的[てき]	heiban
+眠[ねむ]る	heiban
+確[たし]か	atamadaka
+十[じゅう] 分[ぶん]	nakadaka
+料[りょう] 理[り]	atamadaka
+頃[ころ]	atamadaka
 なかなか	heiban
-正直	nakadaka
-身	
+正[しょう] 直[じき]	nakadaka
+身[み]	
 いっぱい	heiban
-美しい	nakadaka
-甘い	heiban
+美[うつく]しい	nakadaka
+甘[あま]い	heiban
 むしろ	atamadaka
-首	heiban
-感情	heiban
-周り	heiban
-方法	heiban
-もう一度	heiban
-遅い	heiban
-会話	heiban
-合う	atamadaka
-やって来る	nakadaka
-森	heiban
-動かす	nakadaka
-能力	atamadaka
-震える	heiban
-期待	heiban
-無事	heiban
-起こす	nakadaka
-起こす	nakadaka
-耳	atamadaka
-生まれる	heiban
-移動	heiban
-邪魔	heiban
-遊ぶ	heiban
-要る	heiban
-無くなる	heiban
-唇	heiban
-着る	heiban
-色々	heiban
+首[くび]	heiban
+感[かん] 情[じょう]	heiban
+周[まわ]り	heiban
+方[ほう] 法[ほう]	heiban
+もう 一[いち] 度[ど]	heiban
+遅[おそ]い	heiban
+会[かい] 話[わ]	heiban
+合[あ]う	atamadaka
+やって 来[く]る	nakadaka
+森[もり]	heiban
+動[うご]かす	nakadaka
+能[のう] 力[りょく]	atamadaka
+震[ふる]える	heiban
+期[き] 待[たい]	heiban
+無[ぶ] 事[じ]	heiban
+起[お]こす	nakadaka
+耳[みみ]	atamadaka
+生[う]まれる	heiban
+移[い] 動[どう]	heiban
+邪[じゃ] 魔[ま]	heiban
+遊[あそ]ぶ	heiban
+要[い]る	heiban
+無[な]くなる	heiban
+唇[くちびる]	heiban
+着[き]る	heiban
+色[いろ] 々[いろ]	heiban
 どうぞ	atamadaka
-立ち上がる	
-思い	atamadaka
-以前	
-もう少し	
-襲う	heiban
-見つかる	heiban
-急ぐ	atamadaka
+立[た]ち 上[あ]がる	
+思[おも]い	atamadaka
+以[い] 前[ぜん]	
+もう 少[すこ]し	
+襲[おそ]う	heiban
+見[み]つかる	heiban
+急[いそ]ぐ	atamadaka
 せっかく	atamadaka
-降りる	atamadaka
-下りる	atamadaka
-切る	atamadaka
-事件	atamadaka
-返事	atamadaka
-酷い	atamadaka
-重い	heiban
-起こる	nakadaka
-逆	heiban
-納得	heiban
-楽しむ	nakadaka
-叫ぶ	nakadaka
-集まる	atamadaka
-構う	atamadaka
-王	atamadaka
-途中	heiban
-慣れる	atamadaka
-終わり	heiban
-一応	heiban
-引く	heiban
-海	atamadaka
-諦める	atamadaka
-必ず	heiban
-狙う	heiban
+降[お]りる	atamadaka
+下[お]りる	atamadaka
+切[き]る	atamadaka
+事[じ] 件[けん]	atamadaka
+返[へん] 事[じ]	atamadaka
+酷[ひど]い	atamadaka
+重[おも]い	heiban
+起[お]こる	nakadaka
+逆[ぎゃく]	heiban
+納[なっ] 得[とく]	heiban
+楽[たの]しむ	nakadaka
+叫[さけ]ぶ	nakadaka
+集[あつ]まる	atamadaka
+構[かま]う	atamadaka
+王[おう]	atamadaka
+途[と] 中[ちゅう]	heiban
+慣[な]れる	atamadaka
+終[お]わり	heiban
+一[いち] 応[おう]	heiban
+引[ひ]く	heiban
+海[うみ]	atamadaka
+諦[あきら]める	atamadaka
+必[かなら]ず	heiban
+狙[ねら]う	heiban
 いくら	atamadaka
-落とす	atamadaka
-部分	atamadaka
-必死	heiban
-珍しい	atamadaka
-意外	heiban
-報告	heiban
-握る	
-結婚	heiban
-戦い	heiban
-感謝	atamadaka
-激しい	nakadaka
-倒れる	nakadaka
-既に	atamadaka
-疲れる	nakadaka
-生活	heiban
-場	
-愛する	nakadaka
-冷たい	heiban
-捨てる	heiban
-過ごす	nakadaka
-食事	heiban
-働く	heiban
-答え	nakadaka
-風	heiban
-黒い	nakadaka
-助かる	nakadaka
-受け取る	heiban
-足りる	heiban
-判断	atamadaka
-未来	atamadaka
-食う	atamadaka
-分	atamadaka
+落[お]とす	atamadaka
+部[ぶ] 分[ぶん]	atamadaka
+必[ひっ] 死[し]	heiban
+珍[めずら]しい	atamadaka
+意[い] 外[がい]	heiban
+報[ほう] 告[こく]	heiban
+握[にぎ]る	
+結[けっ] 婚[こん]	heiban
+戦[たたか]い	heiban
+感[かん] 謝[しゃ]	atamadaka
+激[はげ]しい	nakadaka
+倒[たお]れる	nakadaka
+既[すで]に	atamadaka
+疲[つか]れる	nakadaka
+生[せい] 活[かつ]	heiban
+場[ば]	
+愛[あい]する	nakadaka
+冷[つめ]たい	heiban
+捨[す]てる	heiban
+過[す]ごす	nakadaka
+食[しょく] 事[じ]	heiban
+働[はたら]く	heiban
+答[こた]え	nakadaka
+風[かぜ]	heiban
+黒[くろ]い	nakadaka
+助[たす]かる	nakadaka
+受[う]け 取[と]る	heiban
+足[た]りる	heiban
+判[はん] 断[だん]	atamadaka
+未[み] 来[らい]	atamadaka
+食[く]う	atamadaka
+分[ぶん]	atamadaka
 そっち	odaka
-上手い	nakadaka
-合わせる	nakadaka
-大切	heiban
-花	odaka
-謝る	nakadaka
-奪う	nakadaka
-勢い	nakadaka
-涙	atamadaka
-雰囲気	nakadaka
-嘘	atamadaka
-望む	heiban
-緊張	heiban
-一緒	heiban
-救う	heiban
-自ら	atamadaka
-地面	atamadaka
-失敗	heiban
-避ける	nakadaka
-窓	atamadaka
-素直	atamadaka
-肉	odaka
-冗談	nakadaka
-余裕	heiban
-連絡	heiban
-人生	atamadaka
-放つ	nakadaka
-流れる	nakadaka
-特別	heiban
-連中	heiban
-両手	heiban
-増える	nakadaka
-出会う	nakadaka
-少年	heiban
-繰り返す	nakadaka
-我慢	atamadaka
-我々	heiban
-感覚	heiban
-響く	nakadaka
-何とか	atamadaka
-山	odaka
-当たり前	heiban
-予定	heiban
-残念	nakadaka
-追う	heiban
-綺麗	atamadaka
+上手[うま]い	nakadaka
+合[あ]わせる	nakadaka
+大[たい] 切[せつ]	heiban
+花[はな]	odaka
+謝[あやま]る	nakadaka
+奪[うば]う	nakadaka
+勢[いきお]い	nakadaka
+涙[なみだ]	atamadaka
+雰[ふん] 囲[い] 気[き]	nakadaka
+嘘[うそ]	atamadaka
+望[のぞ]む	heiban
+緊[きん] 張[ちょう]	heiban
+一[いっ] 緒[しょ]	heiban
+救[すく]う	heiban
+自[みずか]ら	atamadaka
+地[じ] 面[めん]	atamadaka
+失[しっ] 敗[ぱい]	heiban
+避[さ]ける	nakadaka
+窓[まど]	atamadaka
+素[す] 直[なお]	atamadaka
+肉[にく]	odaka
+冗[じょう] 談[だん]	nakadaka
+余[よ] 裕[ゆう]	heiban
+連[れん] 絡[らく]	heiban
+人[じん] 生[せい]	atamadaka
+放[はな]つ	nakadaka
+流[なが]れる	nakadaka
+特[とく] 別[べつ]	heiban
+連[れん] 中[ちゅう]	heiban
+両[りょう] 手[て]	heiban
+増[ふ]える	nakadaka
+出[で] 会[あ]う	nakadaka
+少[しょう] 年[ねん]	heiban
+繰[く]り 返[かえ]す	nakadaka
+我[が] 慢[まん]	atamadaka
+我[われ] 々[われ]	heiban
+感[かん] 覚[かく]	heiban
+響[ひび]く	nakadaka
+何[なん]とか	atamadaka
+山[やま]	odaka
+当[あ]たり 前[まえ]	heiban
+予[よ] 定[てい]	heiban
+残[ざん] 念[ねん]	nakadaka
+追[お]う	heiban
+綺[き] 麗[れい]	atamadaka
 いらっしゃる	nakadaka
-若い	nakadaka
+若[わか]い	nakadaka
 どうしても	nakadaka
-考え	nakadaka
-過去	atamadaka
-気配	atamadaka
-本人	atamadaka
-現実	heiban
-決して	heiban
+考[かんが]え	nakadaka
+過[か] 去[こ]	atamadaka
+気[け] 配[はい]	atamadaka
+本[ほん] 人[にん]	atamadaka
+現[げん] 実[じつ]	heiban
+決[けっ]して	heiban
 いつか	atamadaka
-床	heiban
-横	heiban
-休む	nakadaka
-振り返る	nakadaka
+床[ゆか]	heiban
+横[よこ]	heiban
+休[やす]む	nakadaka
+振[ふ]り 返[かえ]る	nakadaka
 わざわざ	atamadaka
-質問	heiban
-興味	atamadaka
-距離	atamadaka
-内容	heiban
+質[しつ] 問[もん]	heiban
+興[きょう] 味[み]	atamadaka
+距[きょ] 離[り]	atamadaka
+内[ない] 容[よう]	heiban
 つい	atamadaka
-回る	heiban
-並ぶ	heiban
-終える	heiban
-態度	atamadaka
-金	heiban
-今夜	atamadaka
-昨夜	nakadaka
+回[まわ]る	heiban
+並[なら]ぶ	heiban
+終[お]える	heiban
+態[たい] 度[ど]	atamadaka
+金[かね]	heiban
+今[こん] 夜[や]	atamadaka
+昨夜[ゆうべ]	nakadaka
 さすが	heiban
-自然	heiban
-眺める	nakadaka
-向く	heiban
-相変わらず	heiban
-普段	atamadaka
+自[し] 然[ぜん]	heiban
+眺[なが]める	nakadaka
+向[む]く	heiban
+相[あい] 変[か]わらず	heiban
+普[ふ] 段[だん]	atamadaka
 どうも	atamadaka
-運ぶ	heiban
+運[はこ]ぶ	heiban
 やっと	heiban
-弱い	atamadaka
+弱[よわ]い	atamadaka
 どうせ	heiban
-離す	nakadaka
-貴族	atamadaka
-広がる	heiban
-頬	atamadaka
-寂しい	nakadaka
-正しい	nakadaka
-自由	atamadaka
-全身	heiban
-武器	atamadaka
+離[はな]す	nakadaka
+貴[き] 族[ぞく]	atamadaka
+広[ひろ]がる	heiban
+頬[ほお]	atamadaka
+寂[さび]しい	nakadaka
+正[ただ]しい	nakadaka
+自[じ] 由[ゆう]	atamadaka
+全[ぜん] 身[しん]	heiban
+武[ぶ] 器[き]	atamadaka
 それぞれ	atamadaka
-語る	heiban
-持ってくる	nakadaka
-息子	heiban
-娘	odaka
-一気に	atamadaka
+語[かた]る	heiban
+持[も]ってくる	nakadaka
+息子[むすこ]	heiban
+娘[むすめ]	odaka
+一[いっ] 気[き]に	atamadaka
 そっと	heiban
-伝わる	heiban
-当たる	heiban
-痛み	odaka
-妙	atamadaka
-影	atamadaka
-死	odaka
-多分	
-協力	heiban
-見上げる	heiban
-覚悟	atamadaka
-連れる	heiban
-低い	atamadaka
-木	odaka
-面倒	nakadaka
-闇	odaka
-広い	atamadaka
-告げる	heiban
-叩く	atamadaka
-自信	heiban
-集める	nakadaka
-振る	heiban
-余計	heiban
-他に	heiban
-誘う	heiban
-付き合う	nakadaka
-村	odaka
-人物	atamadaka
-数	atamadaka
-危ない	nakadaka
-事情	heiban
-本当に	heiban
-噂	heiban
-断る	nakadaka
+伝[つた]わる	heiban
+当[あ]たる	heiban
+痛[いた]み	odaka
+妙[みょう]	atamadaka
+影[かげ]	atamadaka
+死[し]	odaka
+多[た] 分[ぶん]	
+協[きょう] 力[りょく]	heiban
+見[み] 上[あ]げる	heiban
+覚[かく] 悟[ご]	atamadaka
+連[つ]れる	heiban
+低[ひく]い	atamadaka
+木[き]	odaka
+面[めん] 倒[どう]	nakadaka
+闇[やみ]	odaka
+広[ひろ]い	atamadaka
+告[つ]げる	heiban
+叩[たた]く	atamadaka
+自[じ] 信[しん]	heiban
+集[あつ]める	nakadaka
+振[ふ]る	heiban
+余[よ] 計[けい]	heiban
+他[ほか]に	heiban
+誘[さそ]う	heiban
+付[つ]き 合[あ]う	nakadaka
+村[むら]	odaka
+人[じん] 物[ぶつ]	atamadaka
+数[かず]	atamadaka
+危[あぶ]ない	nakadaka
+事[じ] 情[じょう]	heiban
+本[ほん] 当[とう]に	heiban
+噂[うわさ]	heiban
+断[ことわ]る	nakadaka
 どうか	atamadaka
-巨大	heiban
-最高	heiban
-お金	heiban
-傷	heiban
-怒り	odaka
+巨[きょ] 大[だい]	heiban
+最[さい] 高[こう]	heiban
+お 金[かね]	heiban
+傷[きず]	heiban
+怒[いか]り	odaka
 どうやって	
-効果	atamadaka
-取り出す	heiban
-黒	atamadaka
-愛	atamadaka
-直接	heiban
-浮かぶ	heiban
-抜ける	heiban
-暗い	heiban
-息	atamadaka
-駄目	nakadaka
-点	heiban
-参加	heiban
+効[こう] 果[か]	atamadaka
+取[と]り 出[だ]す	heiban
+黒[くろ]	atamadaka
+愛[あい]	atamadaka
+直[ちょく] 接[せつ]	heiban
+浮[う]かぶ	heiban
+抜[ぬ]ける	heiban
+暗[くら]い	heiban
+息[いき]	atamadaka
+駄[だ] 目[め]	nakadaka
+点[てん]	heiban
+参[さん] 加[か]	heiban
 はっきり	nakadaka
-描く	atamadaka
-描く	nakadaka
-無視	atamadaka
-生徒	atamadaka
-詳しい	nakadaka
-触る	heiban
+描[か]く	atamadaka
+描[えが]く	nakadaka
+無[む] 視[し]	atamadaka
+生[せい] 徒[と]	atamadaka
+詳[くわ]しい	nakadaka
+触[さわ]る	heiban
 これまで	nakadaka
-半分	nakadaka
-耐える	nakadaka
-立場	atamadaka
-石	odaka
-挨拶	atamadaka
-相談	heiban
-受け入れる	
-練習	heiban
-無駄	heiban
-抱える	heiban
-示す	nakadaka
-成功	heiban
-抱く	heiban
-味	heiban
-男性	heiban
-否定	heiban
-致す	
-現在	atamadaka
-輝く	nakadaka
-熱	odaka
-始め	heiban
-厳しい	nakadaka
-匂い	nakadaka
-席	atamadaka
-売る	heiban
-暮らす	heiban
-利用	heiban
+半[はん] 分[ぶん]	nakadaka
+耐[た]える	nakadaka
+立[たち] 場[ば]	atamadaka
+石[いし]	odaka
+挨[あい] 拶[さつ]	atamadaka
+相[そう] 談[だん]	heiban
+受[う]け 入[い]れる	
+練[れん] 習[しゅう]	heiban
+無[む] 駄[だ]	heiban
+抱[かか]える	heiban
+示[しめ]す	nakadaka
+成[せい] 功[こう]	heiban
+抱[だ]く	heiban
+味[あじ]	heiban
+男[だん] 性[せい]	heiban
+否[ひ] 定[てい]	heiban
+致[いた]す	
+現[げん] 在[ざい]	atamadaka
+輝[かがや]く	nakadaka
+熱[ねつ]	odaka
+始[はじ]め	heiban
+厳[きび]しい	nakadaka
+匂[にお]い	nakadaka
+席[せき]	atamadaka
+売[う]る	heiban
+暮[く]らす	heiban
+利[り] 用[よう]	heiban
 ふと	heiban
-経験	heiban
-変化	atamadaka
-王子	atamadaka
-満足	atamadaka
+経[けい] 験[けん]	heiban
+変[へん] 化[か]	atamadaka
+王[おう] 子[じ]	atamadaka
+満[まん] 足[ぞく]	atamadaka
 どんどん	atamadaka
-命令	heiban
-主	atamadaka
-美味しい	
-手紙	heiban
-掴む	nakadaka
-他人	heiban
-格好	heiban
-光景	heiban
+命[めい] 令[れい]	heiban
+主[おも]	atamadaka
+美味[おい]しい	
+手[て] 紙[がみ]	heiban
+掴[つか]む	nakadaka
+他[た] 人[にん]	heiban
+格[かっ] 好[こう]	heiban
+光[こう] 景[けい]	heiban
 すっかり	nakadaka
 どちら	atamadaka
-親	odaka
-時代	heiban
-作戦	heiban
+親[おや]	odaka
+時[じ] 代[だい]	heiban
+作[さく] 戦[せん]	heiban
 もしかしたら	atamadaka
-苦しい	nakadaka
-明るい	heiban
-原因	heiban
-廊下	heiban
+苦[くる]しい	nakadaka
+明[あか]るい	heiban
+原[げん] 因[いん]	heiban
+廊[ろう] 下[か]	heiban
 そいつ	heiban
-先ほど	heiban
-大人	heiban
-人々	atamadaka
-撫でる	nakadaka
-立てる	nakadaka
+先[さき]ほど	heiban
+大人[おとな]	heiban
+人[ひと] 々[びと]	atamadaka
+撫[な]でる	nakadaka
+立[た]てる	nakadaka
 たまに	heiban
-押す	heiban
-平気	heiban
-悲しい	heiban
-隠れる	nakadaka
+押[お]す	heiban
+平[へい] 気[き]	heiban
+悲[かな]しい	heiban
+隠[かく]れる	nakadaka
 まだまだ	atamadaka
-皆さん	nakadaka
-戻す	atamadaka
-戦闘	heiban
-火	odaka
-炎	atamadaka
-恐怖	atamadaka
-迷う	atamadaka
+皆[みな]さん	nakadaka
+戻[もど]す	atamadaka
+戦[せん] 闘[とう]	heiban
+火[ひ]	odaka
+炎[ほのお]	atamadaka
+恐[きょう] 怖[ふ]	atamadaka
+迷[まよ]う	atamadaka
 よろしい	nakadaka
-機会	nakadaka
-恐ろしい	nakadaka
-借りる	heiban
-外す	heiban
-地	odaka
-速い	atamadaka
-短い	nakadaka
-気に入る	heiban
-改めて	nakadaka
+機[き] 会[かい]	nakadaka
+恐[おそ]ろしい	nakadaka
+借[か]りる	heiban
+外[はず]す	heiban
+地[ち]	odaka
+速[はや]い	atamadaka
+短[みじか]い	nakadaka
+気[き]に 入[い]る	heiban
+改[あらた]めて	nakadaka
 うるさい	nakadaka
-当てる	heiban
-包む	atamadaka
-位置	atamadaka
-打つ	atamadaka
-目指す	atamadaka
-秘密	heiban
-屋敷	nakadaka
-限界	heiban
-勝負	atamadaka
-星	heiban
-明らか	atamadaka
-悩む	atamadaka
-集中	heiban
-間違う	nakadaka
-裏	odaka
-薄い	
-願う	atamadaka
-回復	heiban
-流す	atamadaka
+当[あ]てる	heiban
+包[つつ]む	atamadaka
+位[い] 置[ち]	atamadaka
+打[う]つ	atamadaka
+目[め] 指[ざ]す	atamadaka
+秘[ひ] 密[みつ]	heiban
+屋[や] 敷[しき]	nakadaka
+限[げん] 界[かい]	heiban
+勝[しょう] 負[ぶ]	atamadaka
+星[ほし]	heiban
+明[あき]らか	atamadaka
+悩[なや]む	atamadaka
+集[しゅう] 中[ちゅう]	heiban
+間[ま] 違[ちが]う	nakadaka
+裏[うら]	odaka
+薄[うす]い	
+願[ねが]う	atamadaka
+回[かい] 復[ふく]	heiban
+流[なが]す	atamadaka
 じっと	heiban
-本物	heiban
-正に	atamadaka
-取り戻す	
-何より	atamadaka
-身体	atamadaka
-方向	heiban
-通る	atamadaka
-空間	heiban
-着く	
-可能	heiban
-新た	atamadaka
-随分	atamadaka
-尋ねる	nakadaka
-椅子	heiban
-城	heiban
-恐らく	nakadaka
-お茶	heiban
-雨	atamadaka
+本[ほん] 物[もの]	heiban
+正[まさ]に	atamadaka
+取[と]り 戻[もど]す	
+何[なに]より	atamadaka
+身[しん] 体[たい]	atamadaka
+方[ほう] 向[こう]	heiban
+通[とお]る	atamadaka
+空[くう] 間[かん]	heiban
+着[つ]く	
+可[か] 能[のう]	heiban
+新[あら]た	atamadaka
+随[ずい] 分[ぶん]	atamadaka
+尋[たず]ねる	nakadaka
+椅[い] 子[す]	heiban
+城[しろ]	heiban
+恐[おそ]らく	nakadaka
+お 茶[ちゃ]	heiban
+雨[あめ]	atamadaka
 いやいや	
 そのもの	odaka
-教室	heiban
-馬鹿	atamadaka
-遠慮	heiban
-まずい	nakadaka
+教[きょう] 室[しつ]	heiban
+馬[ば] 鹿[か]	atamadaka
+遠[えん] 慮[りょ]	heiban
 まずい	nakadaka
 せめて	atamadaka
-迎える	heiban
-少なくとも	
-魂	atamadaka
-消す	heiban
-調子	heiban
-お互い	heiban
-似合う	nakadaka
-猫	atamadaka
-犬	odaka
-お礼	heiban
-後悔	atamadaka
-希望	heiban
-下がる	nakadaka
-訪れる	odaka
-褒める	nakadaka
-性格	heiban
-写真	heiban
-薬	heiban
-友人	heiban
+迎[むか]える	heiban
+少[すく]なくとも	
+魂[たましい]	atamadaka
+消[け]す	heiban
+調[ちょう] 子[し]	heiban
+お 互[たが]い	heiban
+似[に] 合[あ]う	nakadaka
+猫[ねこ]	atamadaka
+犬[いぬ]	odaka
+お 礼[れい]	heiban
+後[こう] 悔[かい]	atamadaka
+希[き] 望[ぼう]	heiban
+下[さ]がる	nakadaka
+訪[おとず]れる	odaka
+褒[ほ]める	nakadaka
+性[せい] 格[かく]	heiban
+写[しゃ] 真[しん]	heiban
+薬[くすり]	heiban
+友[ゆう] 人[じん]	heiban
 かつて	atamadaka
-確実	heiban
+確[かく] 実[じつ]	heiban
 もはや	atamadaka
-去る	atamadaka
-一部	nakadaka
-遠く	odaka
-腹	odaka
-階段	heiban
-適当	heiban
-舌	odaka
-予想	heiban
-興奮	heiban
-関わる	nakadaka
-白	atamadaka
-進める	heiban
-真剣	heiban
-迫る	nakadaka
+去[さ]る	atamadaka
+一[いち] 部[ぶ]	nakadaka
+遠[とお]く	odaka
+腹[はら]	odaka
+階[かい] 段[だん]	heiban
+適[てき] 当[とう]	heiban
+舌[した]	odaka
+予[よ] 想[そう]	heiban
+興[こう] 奮[ふん]	heiban
+関[かか]わる	nakadaka
+白[しろ]	atamadaka
+進[すす]める	heiban
+真[しん] 剣[けん]	heiban
+迫[せま]る	nakadaka
 ほぼ	atamadaka
 ちょうど	heiban
-疑問	heiban
-指示	atamadaka
-揺れる	heiban
-相当	heiban
-楽	atamadaka
-勘違い	nakadaka
-警戒	heiban
-確かめる	nakadaka
-月	atamadaka
-疑う	heiban
-電話	heiban
-成長	heiban
-鋭い	nakadaka
-証拠	heiban
-紹介	heiban
-実際	heiban
-何でも	atamadaka
-作業	atamadaka
-重要	heiban
-鍵	atamadaka
-衝撃	heiban
-巻き込む	nakadaka
-差し出す	
-軍	atamadaka
+疑[ぎ] 問[もん]	heiban
+指[し] 示[じ]	atamadaka
+揺[ゆ]れる	heiban
+相[そう] 当[とう]	heiban
+楽[らく]	atamadaka
+勘[かん] 違[ちが]い	nakadaka
+警[けい] 戒[かい]	heiban
+確[たし]かめる	nakadaka
+月[つき]	atamadaka
+疑[うたが]う	heiban
+電[でん] 話[わ]	heiban
+成[せい] 長[ちょう]	heiban
+鋭[するど]い	nakadaka
+証[しょう] 拠[こ]	heiban
+紹[しょう] 介[かい]	heiban
+実[じっ] 際[さい]	heiban
+何[なん]でも	atamadaka
+作[さ] 業[ぎょう]	atamadaka
+重[じゅう] 要[よう]	heiban
+鍵[かぎ]	atamadaka
+衝[しょう] 撃[げき]	heiban
+巻[ま]き 込[こ]む	nakadaka
+差[さ]し 出[だ]す	
+軍[ぐん]	atamadaka
 そちら	heiban
-悔しい	nakadaka
-抜く	heiban
-破壊	heiban
-運命	atamadaka
-案内	nakadaka
-努力	atamadaka
+悔[くや]しい	nakadaka
+抜[ぬ]く	heiban
+破[は] 壊[かい]	heiban
+運[うん] 命[めい]	atamadaka
+案[あん] 内[ない]	nakadaka
+努[ど] 力[りょく]	atamadaka
 いずれ	heiban
-一言	atamadaka
+一[ひと] 言[こと]	atamadaka
 ついに	atamadaka
-心臓	heiban
-荷物	atamadaka
-伸びる	atamadaka
-両親	atamadaka
-量	atamadaka
-払う	atamadaka
-二度と	atamadaka
-辺り	atamadaka
-開始	heiban
-解放	heiban
-仲良く	atamadaka
-獣	heiban
-取れる	nakadaka
-建物	atamadaka
-本来	atamadaka
-扱う	heiban
-真面目	heiban
-影響	heiban
-真っ赤	odaka
-発見	heiban
-支える	heiban
-第一	atamadaka
-お父さん	atamadaka
-お母さん	atamadaka
-お兄さん	atamadaka
-お姉さん	atamadaka
+心[しん] 臓[ぞう]	heiban
+荷[に] 物[もつ]	atamadaka
+伸[の]びる	atamadaka
+両[りょう] 親[しん]	atamadaka
+量[りょう]	atamadaka
+払[はら]う	atamadaka
+二[に] 度[ど]と	atamadaka
+辺[あた]り	atamadaka
+開[かい] 始[し]	heiban
+解[かい] 放[ほう]	heiban
+仲[なか] 良[よ]く	atamadaka
+獣[けもの]	heiban
+取[と]れる	nakadaka
+建[たて] 物[もの]	atamadaka
+本[ほん] 来[らい]	atamadaka
+扱[あつか]う	heiban
+真面目[まじめ]	heiban
+影[えい] 響[きょう]	heiban
+真[ま]っ 赤[か]	odaka
+発[はっ] 見[けん]	heiban
+支[ささ]える	heiban
+第[だい] 一[いち]	atamadaka
+お 父[とう]さん	atamadaka
+お 母[かあ]さん	atamadaka
+お 兄[にい]さん	atamadaka
+お 姉[ねえ]さん	atamadaka
 おじさん	heiban
 おばさん	heiban
 いとこ	atamadaka
-机	heiban
-同士	atamadaka
-遅れる	heiban
-車	heiban
-飛び出す	nakadaka
-事態	atamadaka
-味方	heiban
-展開	heiban
-学園	heiban
-怪しい	heiban
-型	odaka
-流れ	odaka
-残り	odaka
-偶然	heiban
-柔らかい	nakadaka
-感触	heiban
-女子	atamadaka
-無し	atamadaka
-壊れる	nakadaka
-苦手	heiban
-試す	atamadaka
-立派	heiban
-回す	heiban
+机[つくえ]	heiban
+同[どう] 士[し]	atamadaka
+遅[おく]れる	heiban
+車[くるま]	heiban
+飛[と]び 出[だ]す	nakadaka
+事[じ] 態[たい]	atamadaka
+味[み] 方[かた]	heiban
+展[てん] 開[かい]	heiban
+学[がく] 園[えん]	heiban
+怪[あや]しい	heiban
+型[かた]	odaka
+流[なが]れ	odaka
+残[のこ]り	odaka
+偶[ぐう] 然[ぜん]	heiban
+柔[やわ]らかい	nakadaka
+感[かん] 触[しょく]	heiban
+女[じょ] 子[し]	atamadaka
+無[な]し	atamadaka
+壊[こわ]れる	nakadaka
+苦[にが] 手[て]	heiban
+試[ため]す	atamadaka
+立[りっ] 派[ぱ]	heiban
+回[まわ]す	heiban
 なぜか	atamadaka
-意見	atamadaka
-大量	heiban
-提案	heiban
-責任	heiban
-抑える	
-全力	heiban
-伸ばす	atamadaka
-客	heiban
-王国	heiban
-抵抗	heiban
-混乱	heiban
-条件	nakadaka
-迷惑	atamadaka
-例	atamadaka
-頼る	atamadaka
-完璧	heiban
-日々	atamadaka
-行為	atamadaka
+意[い] 見[けん]	atamadaka
+大[たい] 量[りょう]	heiban
+提[てい] 案[あん]	heiban
+責[せき] 任[にん]	heiban
+抑[おさ]える	
+全[ぜん] 力[りょく]	heiban
+伸[の]ばす	atamadaka
+客[きゃく]	heiban
+王[おう] 国[こく]	heiban
+抵[てい] 抗[こう]	heiban
+混[こん] 乱[らん]	heiban
+条[じょう] 件[けん]	nakadaka
+迷[めい] 惑[わく]	atamadaka
+例[れい]	atamadaka
+頼[たよ]る	atamadaka
+完[かん] 璧[ぺき]	heiban
+日[ひ] 々[び]	atamadaka
+行[こう] 為[い]	atamadaka
 ともかく	atamadaka
-減る	heiban
-嫌う	heiban
-知り合い	heiban
-思考	heiban
-解決	heiban
-冷静	heiban
-天	atamadaka
-いつの間にか	
-直す	atamadaka
-常に	atamadaka
-犯人	atamadaka
-許可	atamadaka
-閉じる	atamadaka
-重ねる	heiban
-細い	atamadaka
-久しぶり	heiban
-目立つ	atamadaka
-到着	heiban
-押さえる	
-通う	heiban
-殴る	atamadaka
-広げる	heiban
-引っ張る	atamadaka
+減[へ]る	heiban
+嫌[きら]う	heiban
+知[し]り 合[あ]い	heiban
+思[し] 考[こう]	heiban
+解[かい] 決[けつ]	heiban
+冷[れい] 静[せい]	heiban
+天[てん]	atamadaka
+いつの 間[ま]にか	
+直[なお]す	atamadaka
+常[つね]に	atamadaka
+犯[はん] 人[にん]	atamadaka
+許[きょ] 可[か]	atamadaka
+閉[と]じる	atamadaka
+重[かさ]ねる	heiban
+細[ほそ]い	atamadaka
+久[ひさ]しぶり	heiban
+目[め] 立[だ]つ	atamadaka
+到[とう] 着[ちゃく]	heiban
+押[お]さえる	
+通[かよ]う	heiban
+殴[なぐ]る	atamadaka
+広[ひろ]げる	heiban
+引[ひ]っ 張[ぱ]る	atamadaka
 いつまでも	atamadaka
-間に合う	nakadaka
-了解	heiban
-番	atamadaka
-戦争	heiban
-寒い	nakadaka
-見事	atamadaka
-酒	heiban
-恋人	heiban
-一切	atamadaka
-穴	odaka
-依頼	heiban
-中身	nakadaka
-多少	heiban
-真実	atamadaka
-見た目	heiban
-間違い	nakadaka
-青い	nakadaka
-辛い	nakadaka
-辛い	
-対応	heiban
-光る	nakadaka
-苦労	atamadaka
-通じる	heiban
-罪	atamadaka
-授業	atamadaka
-最悪	heiban
-差	heiban
-信用	heiban
-壊す	nakadaka
-式	odaka
-人形	heiban
-結ぶ	heiban
+間[ま]に 合[あ]う	nakadaka
+了[りょう] 解[かい]	heiban
+番[ばん]	atamadaka
+戦[せん] 争[そう]	heiban
+寒[さむ]い	nakadaka
+見[み] 事[ごと]	atamadaka
+酒[さけ]	heiban
+恋[こい] 人[びと]	heiban
+一[いっ] 切[さい]	atamadaka
+穴[あな]	odaka
+依[い] 頼[らい]	heiban
+中[なか] 身[み]	nakadaka
+多[た] 少[しょう]	heiban
+真[しん] 実[じつ]	atamadaka
+見[み]た 目[め]	heiban
+間[ま] 違[ちが]い	nakadaka
+青[あお]い	nakadaka
+辛[から]い	nakadaka
+辛[つら]い	nakadaka
+対[たい] 応[おう]	heiban
+光[ひか]る	nakadaka
+苦[く] 労[ろう]	atamadaka
+通[つう]じる	heiban
+罪[つみ]	atamadaka
+授[じゅ] 業[ぎょう]	atamadaka
+最[さい] 悪[あく]	heiban
+差[さ]	heiban
+信[しん] 用[よう]	heiban
+壊[こわ]す	nakadaka
+式[しき]	odaka
+人[にん] 形[ぎょう]	heiban
+結[むす]ぶ	heiban
 あんなに	heiban
-計画	heiban
-囲む	heiban
-知識	atamadaka
-切り	odaka
-注意	atamadaka
-言い方	heiban
-経つ	atamadaka
-背	odaka
-問う	
-恋	atamadaka
+計[けい] 画[かく]	heiban
+囲[かこ]む	heiban
+知[ち] 識[しき]	atamadaka
+切[き]り	odaka
+注[ちゅう] 意[い]	atamadaka
+言[い]い 方[かた]	heiban
+経[た]つ	atamadaka
+背[せ]	odaka
+問[と]う	
+恋[こい]	atamadaka
 とんでもない	nakadaka
-中心	heiban
-汗	atamadaka
-異常	heiban
-非常	heiban
-膝	heiban
+中[ちゅう] 心[しん]	heiban
+汗[あせ]	atamadaka
+異[い] 常[じょう]	heiban
+非[ひ] 常[じょう]	heiban
+膝[ひざ]	heiban
 わずか	atamadaka
-役	odaka
-焦る	nakadaka
-川	odaka
-悪魔	atamadaka
-唯一	atamadaka
+役[やく]	odaka
+焦[あせ]る	nakadaka
+川[かわ]	odaka
+悪[あく] 魔[ま]	atamadaka
+唯[ゆい] 一[いつ]	atamadaka
 もうすぐ	nakadaka
-中央	nakadaka
-突っ込む	nakadaka
-技術	atamadaka
-素晴らしい	nakadaka
-単純	heiban
-穏やか	nakadaka
-撃つ	atamadaka
-拾う	heiban
-完成	heiban
-毒	odaka
-馬	odaka
-覆う	heiban
-趣味	atamadaka
+中[ちゅう] 央[おう]	nakadaka
+突[つ]っ 込[こ]む	nakadaka
+技[ぎ] 術[じゅつ]	atamadaka
+素[す] 晴[ば]らしい	nakadaka
+単[たん] 純[じゅん]	heiban
+穏[おだ]やか	nakadaka
+撃[う]つ	atamadaka
+拾[ひろ]う	heiban
+完[かん] 成[せい]	heiban
+毒[どく]	odaka
+馬[うま]	odaka
+覆[おお]う	heiban
+趣[しゅ] 味[み]	atamadaka
 どうにか	atamadaka
-何となく	nakadaka
-価値	atamadaka
-見守る	
-安全	heiban
-連れてくる	nakadaka
+何[なん]となく	nakadaka
+価[か] 値[ち]	atamadaka
+見[み] 守[まも]る	
+安[あん] 全[ぜん]	heiban
+連[つ]れてくる	nakadaka
 そば	atamadaka
-万	odaka
-額	heiban
-受け止める	
-素敵	heiban
-正体	atamadaka
+万[まん]	odaka
+額[がく]	heiban
+受[う]け 止[と]める	
+素[す] 敵[てき]	heiban
+正[しょう] 体[たい]	atamadaka
 あっさり	nakadaka
-吸う	heiban
-鳴る	heiban
-研究	heiban
+吸[す]う	heiban
+鳴[な]る	heiban
+研[けん] 究[きゅう]	heiban
 まとめる	heiban
-別れる	nakadaka
+別[わか]れる	nakadaka
 ふざける	nakadaka
-着替える	
-箱	heiban
-無言	heiban
-何で	atamadaka
-裏切る	nakadaka
-焼く	heiban
-怪我	odaka
-門	odaka
-不可能	nakadaka
-妻	atamadaka
-時には	nakadaka
-発言	heiban
-正確	heiban
-認識	heiban
-速度	atamadaka
-謎	heiban
-文字	atamadaka
-吐く	odaka
-鬼	odaka
-刺激	heiban
-最も	nakadaka
-制服	heiban
-爆発	heiban
-訓練	atamadaka
-振り向く	nakadaka
-脱ぐ	atamadaka
-信頼	heiban
-寄る	heiban
-飛ばす	heiban
-貸す	heiban
+着[き] 替[が]える	
+箱[はこ]	heiban
+無[む] 言[ごん]	heiban
+何[なん]で	atamadaka
+裏[うら] 切[ぎ]る	nakadaka
+焼[や]く	heiban
+怪[け] 我[が]	odaka
+門[もん]	odaka
+不[ふ] 可[か] 能[のう]	nakadaka
+妻[つま]	atamadaka
+時[とき]には	nakadaka
+発[はつ] 言[げん]	heiban
+正[せい] 確[かく]	heiban
+認[にん] 識[しき]	heiban
+速[そく] 度[ど]	atamadaka
+謎[なぞ]	heiban
+文[も] 字[じ]	atamadaka
+吐[は]く	odaka
+鬼[おに]	odaka
+刺[し] 激[げき]	heiban
+最[もっと]も	nakadaka
+制[せい] 服[ふく]	heiban
+爆[ばく] 発[はつ]	heiban
+訓[くん] 練[れん]	atamadaka
+振[ふ]り 向[む]く	nakadaka
+脱[ぬ]ぐ	atamadaka
+信[しん] 頼[らい]	heiban
+寄[よ]る	heiban
+飛[と]ばす	heiban
+貸[か]す	heiban
 パン	atamadaka
 ありがたい	nakadaka
-赤	atamadaka
-大体	heiban
+赤[あか]	atamadaka
+大[だい] 体[たい]	heiban
 きちんと	nakadaka
-喉	atamadaka
-少々	atamadaka
-有名	heiban
-船	atamadaka
-転がる	heiban
-切れる	nakadaka
+喉[のど]	atamadaka
+少[しょう] 々[しょう]	atamadaka
+有[ゆう] 名[めい]	heiban
+船[ふね]	atamadaka
+転[ころ]がる	heiban
+切[き]れる	nakadaka
 たった	heiban
-話題	heiban
-濡れる	heiban
+話[わ] 題[だい]	heiban
+濡[ぬ]れる	heiban
 ついでに	heiban
-呼び出す	nakadaka
-確信	heiban
-込める	nakadaka
-自覚	heiban
-空く	heiban
-空く	heiban
-警察	heiban
-悲鳴	heiban
-捕まえる	heiban
-早速	heiban
-お腹	heiban
-掃除	heiban
-硬い	
-際	atamadaka
-漏らす	nakadaka
-面	atamadaka
-不満	heiban
-驚き	heiban
-旅	odaka
-絵	atamadaka
-組む	atamadaka
-沈黙	heiban
-張る	heiban
-告白	heiban
-舐める	nakadaka
-潰す	heiban
-含める	nakadaka
-時期	atamadaka
-活動	heiban
-育てる	nakadaka
-優秀	heiban
-予感	heiban
-解く	atamadaka
-元々	heiban
-溢れる	nakadaka
-発生	heiban
-微妙	heiban
-違い	heiban
-直後	atamadaka
-地下	atamadaka
-香り	heiban
-効く	heiban
-使用	heiban
-道具	odaka
-願い	nakadaka
-洗う	heiban
-手段	atamadaka
-誤解	heiban
-応援	heiban
-含む	atamadaka
-当時	atamadaka
-勝利	atamadaka
-降る	atamadaka
-雪	odaka
-入り口	heiban
-一方	nakadaka
-古い	nakadaka
-役に立つ	
-懐かしい	nakadaka
+呼[よ]び 出[だ]す	nakadaka
+確[かく] 信[しん]	heiban
+込[こ]める	nakadaka
+自[じ] 覚[かく]	heiban
+空[あ]く	heiban
+空[す]く	heiban
+警[けい] 察[さつ]	heiban
+悲[ひ] 鳴[めい]	heiban
+捕[つか]まえる	heiban
+早[さっ] 速[そく]	heiban
+お 腹[なか]	heiban
+掃[そう] 除[じ]	heiban
+硬[かた]い	
+際[さい]	atamadaka
+漏[も]らす	nakadaka
+面[めん]	atamadaka
+不[ふ] 満[まん]	heiban
+驚[おどろ]き	heiban
+旅[たび]	odaka
+絵[え]	atamadaka
+組[く]む	atamadaka
+沈[ちん] 黙[もく]	heiban
+張[は]る	heiban
+告[こく] 白[はく]	heiban
+舐[な]める	nakadaka
+潰[つぶ]す	heiban
+含[ふく]める	nakadaka
+時[じ] 期[き]	atamadaka
+活[かつ] 動[どう]	heiban
+育[そだ]てる	nakadaka
+優[ゆう] 秀[しゅう]	heiban
+予[よ] 感[かん]	heiban
+解[と]く	atamadaka
+元[もと] 々[もと]	heiban
+溢[あふ]れる	nakadaka
+発[はっ] 生[せい]	heiban
+微[び] 妙[みょう]	heiban
+違[ちが]い	heiban
+直[ちょく] 後[ご]	atamadaka
+地[ち] 下[か]	atamadaka
+香[かお]り	heiban
+効[き]く	heiban
+使[し] 用[よう]	heiban
+道[どう] 具[ぐ]	odaka
+願[ねが]い	nakadaka
+洗[あら]う	heiban
+手[しゅ] 段[だん]	atamadaka
+誤[ご] 解[かい]	heiban
+応[おう] 援[えん]	heiban
+含[ふく]む	atamadaka
+当[とう] 時[じ]	atamadaka
+勝[しょう] 利[り]	atamadaka
+降[ふ]る	atamadaka
+雪[ゆき]	odaka
+入[い]り 口[ぐち]	heiban
+一[いっ] 方[ぽう]	nakadaka
+古[ふる]い	nakadaka
+役[やく]に 立[た]つ	
+懐[なつ]かしい	nakadaka
 もしも	atamadaka
-才能	heiban
-逃げ出す	
-様々	nakadaka
-病院	heiban
-比べる	heiban
-氷	heiban
-狭い	nakadaka
-神様	atamadaka
-動揺	heiban
-長	odaka
+才[さい] 能[のう]	heiban
+逃[に]げ 出[だ]す	
+様[さま] 々[ざま]	nakadaka
+病[びょう] 院[いん]	heiban
+比[くら]べる	heiban
+氷[こおり]	heiban
+狭[せま]い	nakadaka
+神[かみ] 様[さま]	atamadaka
+動[どう] 揺[よう]	heiban
+長[ちょう]	odaka
 なお	atamadaka
-物語	nakadaka
-文句	atamadaka
-至る	nakadaka
-魚	heiban
-鳥	heiban
-映る	nakadaka
-一生	heiban
-紙	odaka
-申す	atamadaka
-複雑	heiban
-投げる	nakadaka
-出来事	nakadaka
-部下	atamadaka
+物[もの] 語[がたり]	nakadaka
+文[もん] 句[く]	atamadaka
+至[いた]る	nakadaka
+魚[さかな]	heiban
+鳥[とり]	heiban
+映[うつ]る	nakadaka
+一[いっ] 生[しょう]	heiban
+紙[かみ]	odaka
+申[もう]す	atamadaka
+複[ふく] 雑[ざつ]	heiban
+投[な]げる	nakadaka
+出[で] 来[き] 事[ごと]	nakadaka
+部[ぶ] 下[か]	atamadaka
 たっぷり	nakadaka
-実力	heiban
-左右	atamadaka
-選択	heiban
-調査	atamadaka
-例えば	nakadaka
-見送る	
+実[じつ] 力[りょく]	heiban
+左[さ] 右[ゆう]	atamadaka
+選[せん] 択[たく]	heiban
+調[ちょう] 査[さ]	atamadaka
+例[たと]えば	nakadaka
+見[み] 送[おく]る	
 もっとも	
-従う	
-通す	atamadaka
-間違える	
-体力	atamadaka
-果たす	nakadaka
-騒ぐ	nakadaka
-飛び込む	nakadaka
-増す	heiban
+従[したが]う	
+通[とお]す	atamadaka
+間[ま] 違[ちが]える	
+体[たい] 力[りょく]	atamadaka
+果[は]たす	nakadaka
+騒[さわ]ぐ	nakadaka
+飛[と]び 込[こ]む	nakadaka
+増[ま]す	heiban
 ぶつかる	heiban
-思い出	heiban
-天井	heiban
-兵士	atamadaka
-満ちる	nakadaka
+思[おも]い 出[で]	heiban
+天[てん] 井[じょう]	heiban
+兵[へい] 士[し]	atamadaka
+満[み]ちる	nakadaka
 たまらない	heiban
-味わう	
-出かける	heiban
-背負う	nakadaka
-揃う	nakadaka
-呼吸	heiban
-真似	heiban
-人気	heiban
-偉い	nakadaka
+味[あじ]わう	
+出[で]かける	heiban
+背[せ] 負[お]う	nakadaka
+揃[そろ]う	nakadaka
+呼[こ] 吸[きゅう]	heiban
+真似[まね]	heiban
+人[にん] 気[き]	heiban
+偉[えら]い	nakadaka
 いよいよ	nakadaka
-対象	heiban
-整える	
-沈む	heiban
-地上	heiban
-用事	heiban
+対[たい] 象[しょう]	heiban
+整[ととの]える	
+沈[しず]む	heiban
+地[ち] 上[じょう]	heiban
+用[よう] 事[じ]	heiban
 よる	heiban
-反対	heiban
-保つ	nakadaka
-歴史	heiban
-島	odaka
+反[はん] 対[たい]	heiban
+保[たも]つ	nakadaka
+歴[れき] 史[し]	heiban
+島[しま]	odaka
 それほど	heiban
-実に	nakadaka
-恐れる	nakadaka
+実[じつ]に	nakadaka
+恐[おそ]れる	nakadaka
 あくまで	atamadaka
-鼻	heiban
-担当	heiban
-片手	
-幼い	nakadaka
-学ぶ	heiban
-強引	heiban
-捲る	heiban
-漏れる	nakadaka
-全体	heiban
-度	odaka
-情けない	nakadaka
-太陽	atamadaka
-甘える	heiban
-踏む	heiban
-印象	heiban
-死体	heiban
-支配	
-現場	heiban
-絶望	heiban
-察する	
-以来	atamadaka
-漂う	nakadaka
-探る	heiban
-最大	heiban
-下げる	nakadaka
-捕まる	heiban
-戸惑う	nakadaka
-言い訳	heiban
-証明	heiban
-参る	atamadaka
-見下ろす	heiban
-燃える	heiban
+鼻[はな]	heiban
+担[たん] 当[とう]	heiban
+片[かた] 手[て]	
+幼[おさな]い	nakadaka
+学[まな]ぶ	heiban
+強[ごう] 引[いん]	heiban
+捲[まく]る	heiban
+漏[も]れる	nakadaka
+全[ぜん] 体[たい]	heiban
+度[ど]	odaka
+情[なさ]けない	nakadaka
+太[たい] 陽[よう]	atamadaka
+甘[あま]える	heiban
+踏[ふ]む	heiban
+印[いん] 象[しょう]	heiban
+死[し] 体[たい]	heiban
+支[し] 配[はい]	
+現[げん] 場[ば]	heiban
+絶[ぜつ] 望[ぼう]	heiban
+察[さっ]する	
+以[い] 来[らい]	atamadaka
+漂[ただよ]う	nakadaka
+探[さぐ]る	heiban
+最[さい] 大[だい]	heiban
+下[さ]げる	nakadaka
+捕[つか]まる	heiban
+戸[と] 惑[まど]う	nakadaka
+言[い]い 訳[わけ]	heiban
+証[しょう] 明[めい]	heiban
+参[まい]る	atamadaka
+見[み] 下[お]ろす	heiban
+燃[も]える	heiban
 たまる	heiban
-暴れる	heiban
-越える	heiban
-精神	atamadaka
-男子	atamadaka
-宣言	nakadaka
-挟む	nakadaka
-防ぐ	nakadaka
-預ける	nakadaka
-限る	nakadaka
-責める	nakadaka
-崩れる	nakadaka
-一度も	heiban
+暴[あば]れる	heiban
+越[こ]える	heiban
+精[せい] 神[しん]	atamadaka
+男[だん] 子[し]	atamadaka
+宣[せん] 言[げん]	nakadaka
+挟[はさ]む	nakadaka
+防[ふせ]ぐ	nakadaka
+預[あず]ける	nakadaka
+限[かぎ]る	nakadaka
+責[せ]める	nakadaka
+崩[くず]れる	nakadaka
+一[いち] 度[ど]も	heiban
 ぼんやり	nakadaka
-その内	heiban
-鏡	odaka
-貫く	nakadaka
-固まる	heiban
-平和	heiban
-意志	atamadaka
-下手	odaka
-続き	heiban
-祈る	nakadaka
-午後	atamadaka
-同様	heiban
-外れる	heiban
-歌う	heiban
-回	atamadaka
-固い	heiban
-最強	heiban
-弾く	heiban
-正解	heiban
+その 内[うち]	heiban
+鏡[かがみ]	odaka
+貫[つらぬ]く	nakadaka
+固[かた]まる	heiban
+平[へい] 和[わ]	heiban
+意[い] 志[し]	atamadaka
+下手[へた]	odaka
+続[つづ]き	heiban
+祈[いの]る	nakadaka
+午[ご] 後[ご]	atamadaka
+同[どう] 様[よう]	heiban
+外[はず]れる	heiban
+歌[うた]う	heiban
+回[かい]	atamadaka
+固[かた]い	heiban
+最[さい] 強[きょう]	heiban
+弾[ひ]く	heiban
+正[せい] 解[かい]	heiban
 きつい	heiban
-お陰	heiban
-地獄	odaka
-年齢	heiban
-病気	heiban
-携帯	heiban
+お 陰[かげ]	heiban
+地[じ] 獄[ごく]	odaka
+年[ねん] 齢[れい]	heiban
+病[びょう] 気[き]	heiban
+携[けい] 帯[たい]	heiban
 ますます	nakadaka
-並べる	heiban
-契約	heiban
-永遠	heiban
-不意に	
-呪い	heiban
-組	odaka
-踊る	heiban
-目覚める	nakadaka
-事故	atamadaka
-袋	odaka
-派手	odaka
-今更	heiban
-真っ直ぐ	nakadaka
-油断	heiban
+並[なら]べる	heiban
+契[けい] 約[やく]	heiban
+永[えい] 遠[えん]	heiban
+不[ふ] 意[い]に	
+呪[のろ]い	heiban
+組[くみ]	odaka
+踊[おど]る	heiban
+目[め] 覚[ざ]める	nakadaka
+事[じ] 故[こ]	atamadaka
+袋[ふくろ]	odaka
+派[は] 手[で]	odaka
+今[いま] 更[さら]	heiban
+真[ま]っ 直[す]ぐ	nakadaka
+油[ゆ] 断[だん]	heiban
 ぶつける	heiban
-育つ	atamadaka
-傷つく	nakadaka
-発する	heiban
-終了	heiban
-足音	nakadaka
-決意	
-感心	heiban
-飲み込む	heiban
-仮に	heiban
-お菓子	atamadaka
-染まる	heiban
-笑い	heiban
-買い物	heiban
-歌	odaka
-庭	heiban
-生き物	nakadaka
-特殊	heiban
-連れて行く	heiban
-現状	heiban
-大分	heiban
-底	heiban
-学生	heiban
-丁寧	atamadaka
-範囲	atamadaka
+育[そだ]つ	atamadaka
+傷[きず]つく	nakadaka
+発[はっ]する	heiban
+終[しゅう] 了[りょう]	heiban
+足[あし] 音[おと]	nakadaka
+決[けつ] 意[い]	
+感[かん] 心[しん]	heiban
+飲[の]み 込[こ]む	heiban
+仮[かり]に	heiban
+お 菓[か] 子[し]	atamadaka
+染[そ]まる	heiban
+笑[わら]い	heiban
+買[か]い 物[もの]	heiban
+歌[うた]	odaka
+庭[にわ]	heiban
+生[い]き 物[もの]	nakadaka
+特[とく] 殊[しゅ]	heiban
+連[つ]れて 行[い]く	heiban
+現[げん] 状[じょう]	heiban
+大[だい] 分[ぶ]	heiban
+底[そこ]	heiban
+学[がく] 生[せい]	heiban
+丁[てい] 寧[ねい]	atamadaka
+範[はん] 囲[い]	atamadaka
 テレビ	atamadaka
-美人	atamadaka
-技	odaka
-将来	atamadaka
-記録	heiban
-大人しい	nakadaka
-骨	odaka
-目標	heiban
-肉体	heiban
-届ける	nakadaka
-足元	nakadaka
-捜す	heiban
+美[び] 人[じん]	atamadaka
+技[わざ]	odaka
+将[しょう] 来[らい]	atamadaka
+記[き] 録[ろく]	heiban
+大人[おとな]しい	nakadaka
+骨[ほね]	odaka
+目[もく] 標[ひょう]	heiban
+肉[にく] 体[たい]	heiban
+届[とど]ける	nakadaka
+足[あし] 元[もと]	nakadaka
+捜[さが]す	heiban
 わざと	atamadaka
 いかが	nakadaka
-布	heiban
-種類	atamadaka
-満たす	nakadaka
-景色	atamadaka
-勇気	atamadaka
-強化	atamadaka
-加える	heiban
-言い出す	nakadaka
-収まる	nakadaka
-組織	atamadaka
-隙間	heiban
-本日	atamadaka
-先日	heiban
-月曜日	nakadaka
-火曜日	nakadaka
-水曜日	nakadaka
-木曜日	nakadaka
-金曜日	nakadaka
-土曜日	nakadaka
-日曜日	nakadaka
-一つ	nakadaka
-二つ	
-三つ	
-四つ	
-五つ	nakadaka
-六つ	
-七つ	nakadaka
-八つ	
-九つ	nakadaka
-評価	atamadaka
+布[ぬの]	heiban
+種[しゅ] 類[るい]	atamadaka
+満[み]たす	nakadaka
+景色[けしき]	atamadaka
+勇[ゆう] 気[き]	atamadaka
+強[きょう] 化[か]	atamadaka
+加[くわ]える	heiban
+言[い]い 出[だ]す	nakadaka
+収[おさ]まる	nakadaka
+組[そ] 織[しき]	atamadaka
+隙[すき] 間[ま]	heiban
+本[ほん] 日[じつ]	atamadaka
+先[せん] 日[じつ]	heiban
+月[げつ] 曜[よう] 日[び]	nakadaka
+火[か] 曜[よう] 日[び]	nakadaka
+水[すい] 曜[よう] 日[び]	nakadaka
+木[もく] 曜[よう] 日[び]	nakadaka
+金[きん] 曜[よう] 日[び]	nakadaka
+土[ど] 曜[よう] 日[び]	nakadaka
+日[にち] 曜[よう] 日[び]	nakadaka
+一[ひと]つ	nakadaka
+二[ふた]つ	
+三[みっ]つ	
+四[よっ]つ	
+五[いつ]つ	nakadaka
+六[むっ]つ	
+七[なな]つ	nakadaka
+八[やっ]つ	
+九[ここの]つ	nakadaka
+評[ひょう] 価[か]	atamadaka
